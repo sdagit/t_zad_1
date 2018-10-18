@@ -1,2 +1,4 @@
 TO jest w masterze!
+tEkst dodany w branchu!
+
 La la la GIT JEST GIT
